@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165915933345",
+    "project_id": "tetrix-retro",
+    "storage_bucket": "tetrix-retro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165915933345:android:c8b6625f05496ade788ee0",
+        "android_client_info": {
+          "package_name": "com.goomezdaniel.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165915933345-fdaqhg9sqb1fa6oqhh1t3cn9mj29is52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgy4UZ6I4OefehVeGGxr1BJ968iHb1l48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165915933345-fdaqhg9sqb1fa6oqhh1t3cn9mj29is52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
