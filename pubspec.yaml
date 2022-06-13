@@ -24,9 +24,9 @@ dependencies:
   flutter:
     sdk: flutter
   # Funciones juego
-  overlay_support: ^0.0.4
-  # Sonidos
-  soundpool: ^1.0.1
+  soundpool: ^2.3.0
+  # # Sonidos
+  # assets_audio_player: ^2.0.10
 
 dev_dependencies:
   flutter_test:
